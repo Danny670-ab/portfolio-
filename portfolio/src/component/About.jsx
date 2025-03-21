@@ -46,6 +46,32 @@ const About = () => {
               </div>
               </div>
             </div>
+            <div className='mt-12 flex justify-between text-center'>
+              <div>
+               <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r fom-green-400 to-blue-500'>
+                    3+
+                 </h3>
+                 <p>
+                  Years experience
+                 </p>
+              </div>
+              <div>
+               <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r fom-green-400 to-blue-500'>
+                    50+
+                 </h3>
+                 <p>
+                  Projects Completed
+                 </p>
+              </div>
+              <div>
+               <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r fom-green-400 to-blue-500'>
+                    10+
+                 </h3>
+                 <p>
+                  Happy Client
+                 </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
